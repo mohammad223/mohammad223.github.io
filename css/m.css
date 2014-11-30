@@ -342,3 +342,7 @@ ul.commentlist li a.comment-minus span.scoree{
         src: url('../fonts/Yekan.otf?#');
          url('../fonts/Yekan.ttf') format('truetype');
 }
+
+.Yekan{
+    font-family: Yekan,sans-serif;
+}
