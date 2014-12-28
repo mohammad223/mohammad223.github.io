@@ -1,0 +1,78 @@
+.btn-success {
+  color:#a94442;
+  background-color:darkcyan;
+  border-color: #4cae4c;
+}
+.col-md-12 ul li{
+   text-decoration: none;
+   display: inline;
+   margin-right: 20px;
+}
+.col-md-12 ul li:hover{
+       color: #a00;
+       margin-right: 20px;
+
+}
+.link ul li:hover{
+	
+    color: #000;
+	
+    width: 50px;
+	
+    height: 50px;
+	
+    border: 1px solid #000;
+	
+    border-radius: 10px;
+	
+    background-color: #fff;
+	
+    padding: 10px;
+	
+    text-decoration: none;
+  
+  
+}
+.tool ul li:hover{
+	
+    color: #000;
+	
+    width: 50px;
+	
+    height: 50px;
+	
+    border: 1px solid #000;
+	
+    border-radius: 10px;
+	
+    background-color: #fff;
+	
+    padding: 10px;
+	
+    text-decoration: none;
+}
+  
+  .dropdown-menu {
+    margin-top: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  
+}
+.a h3:hover{
+	
+    color: #000;
+	
+    width: 105px;
+	
+    height: 50px;
+	
+    border: 1px solid #000;
+	
+    border-radius: 10px;
+	
+    background-color: #fff;
+  
+}
+head{
+  background-color: #000;
+}
